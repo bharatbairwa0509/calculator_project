@@ -1,0 +1,28 @@
+
+  
+ .bg-black{
+    background:#132639;
+  }
+  .bg-oprator{
+    background-color: #ff9900;
+  }
+  .bg-next{
+    background-color:  #d1e0e0;
+  }
+  .special-button{
+    color: black;
+  }
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
